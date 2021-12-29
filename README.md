@@ -1,7 +1,13 @@
 # ArtmuseumTour
 __Unity와 C#을 통해 구현한 2D게임으로 Flappy Bird와 유사한 형식입니다.__
 
-![game](https://user-images.githubusercontent.com/72604908/147672722-d22725b2-a044-4445-acbf-5a3233e13eb7.mp4)
+<video width="100%" height="100%" controls="controls">
+  <source src="/artmeseumTour.mp4" type="video/mp4">
+</video>
+
+<iframe id="video" width="100%" height="100%" src="/artmeseumTour.mp4" frameborder="0"/>
+
+//![game](https://user-images.githubusercontent.com/72604908/147672722-d22725b2-a044-4445-acbf-5a3233e13eb7.mp4)
 
 ### 📢 게임 방법
 ---
